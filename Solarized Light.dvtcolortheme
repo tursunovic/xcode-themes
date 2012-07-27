@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DVTConsoleDebuggerInputTextColor</key>
+	<string>0.727544 0.222335 0 1</string>
+	<key>DVTConsoleDebuggerInputTextFont</key>
+	<string>Menlo-Bold - 11.0</string>
+	<key>DVTConsoleDebuggerOutputTextColor</key>
+	<string>0.327106 0.406624 0.44214 1</string>
+	<key>DVTConsoleDebuggerOutputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleDebuggerPromptTextColor</key>
+	<string>0.645649 0.468269 0 1</string>
+	<key>DVTConsoleDebuggerPromptTextFont</key>
+	<string>Menlo-Bold - 11.0</string>
+	<key>DVTConsoleExectuableInputTextColor</key>
+	<string>0.127068 0.462452 0.808135 1</string>
+	<key>DVTConsoleExectuableInputTextFont</key>
+	<string>Menlo-Regular - 11.0</string>
+	<key>DVTConsoleExectuableOutputTextColor</key>
+	<string>0.181437 0.567811 0.52465 1</string>
+	<key>DVTConsoleExectuableOutputTextFont</key>
+	<string>Menlo-Bold - 11.0</string>
+	<key>DVTConsoleTextBackgroundColor</key>
+	<string>0.990164 0.957866 0.854472 1</string>
+	<key>DVTConsoleTextInsertionPointColor</key>
+	<string>0.279507 0.35611 0.38615 1</string>
+	<key>DVTConsoleTextSelectionColor</key>
+	<string>0.917025 0.889885 0.788446 1</string>
+	<key>DVTDebuggerInstructionPointerColor</key>
+	<string>0.181437 0.567811 0.52465 1</string>
+	<key>DVTSourceTextBackground</key>
+	<string>0.990164 0.957866 0.854472 1</string>
+	<key>DVTSourceTextBlockDimBackgroundColor</key>
+	<string>0.5 0.5 0.5 1</string>
+	<key>DVTSourceTextInsertionPointColor</key>
+	<string>0.279507 0.35611 0.38615 1</string>
+	<key>DVTSourceTextInvisiblesColor</key>
+	<string>0.917025 0.889885 0.788446 1</string>
+	<key>DVTSourceTextSelectionColor</key>
+	<string>0.917025 0.889885 0.788446 1</string>
+	<key>DVTSourceTextSyntaxColors</key>
+	<dict>
+		<key>xcode.syntax.attribute</key>
+		<string>0.279507 0.35611 0.38615 1</string>
+		<key>xcode.syntax.character</key>
+		<string>0.335691 0.353906 0.743841 1</string>
+		<key>xcode.syntax.comment</key>
+		<string>0.50847 0.564339 0.564172 1</string>
+		<key>xcode.syntax.comment.doc</key>
+		<string>0.50847 0.564339 0.564172 1</string>
+		<key>xcode.syntax.comment.doc.keyword</key>
+		<string>0.50847 0.564339 0.564172 1</string>
+		<key>xcode.syntax.identifier.class</key>
+		<string>0.461818 0.538859 0 1</string>
+		<key>xcode.syntax.identifier.class.system</key>
+		<string>0.181437 0.567811 0.52465 1</string>
+		<key>xcode.syntax.identifier.constant</key>
+		<string>0.461818 0.538859 0 1</string>
+		<key>xcode.syntax.identifier.constant.system</key>
+		<string>0.181437 0.567811 0.52465 1</string>
+		<key>xcode.syntax.identifier.function</key>
+		<string>0.461818 0.538859 0 1</string>
+		<key>xcode.syntax.identifier.function.system</key>
+		<string>0.181437 0.567811 0.52465 1</string>
+		<key>xcode.syntax.identifier.macro</key>
+		<string>0.727544 0.222335 0 1</string>
+		<key>xcode.syntax.identifier.macro.system</key>
+		<string>0.727544 0.222335 0 1</string>
+		<key>xcode.syntax.identifier.type</key>
+		<string>0.461818 0.538859 0 1</string>
+		<key>xcode.syntax.identifier.type.system</key>
+		<string>0.181437 0.567811 0.52465 1</string>
+		<key>xcode.syntax.identifier.variable</key>
+		<string>0.461818 0.538859 0 1</string>
+		<key>xcode.syntax.identifier.variable.system</key>
+		<string>0.181437 0.567811 0.52465 1</string>
+		<key>xcode.syntax.keyword</key>
+		<string>0.75681 0.129537 0.446565 1</string>
+		<key>xcode.syntax.number</key>
+		<string>0.335691 0.353906 0.743841 1</string>
+		<key>xcode.syntax.plain</key>
+		<string>0.327106 0.406624 0.44214 1</string>
+		<key>xcode.syntax.preprocessor</key>
+		<string>0.727544 0.222335 0 1</string>
+		<key>xcode.syntax.string</key>
+		<string>0.800904 0.128847 0.119153 1</string>
+		<key>xcode.syntax.url</key>
+		<string>0.127068 0.462452 0.808135 1</string>
+	</dict>
+	<key>DVTSourceTextSyntaxFonts</key>
+	<dict>
+		<key>xcode.syntax.plain</key>
+		<string>Menlo-Regular - 11.0</string>
+	</dict>
+</dict>
+</plist>
