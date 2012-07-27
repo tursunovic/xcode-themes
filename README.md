@@ -1,4 +1,5 @@
-I've used a lot of themes recently. Here's a list of my favorite Xcode themes.
+Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install. 
+[Read my blog post](http://www.damir.me/posts/xcode-themes-and-fonts) which also contains a collection of fonts.
 
 # Xcode theme's
 
@@ -37,7 +38,7 @@ My absolute favorite!
 ![Yozora](http://www.damir.me/u/manual/yozora.jpg)
 
 
-#Installation
+## Installation
 1. Copy the theme(s) to the Xcode's `FontAndColorThemes` folder (`/~Library/Application Support/Developer/Xcode/UserData/FontAndColorThemes`).
 2. Restart Xcode.
 3. Enjoy.
