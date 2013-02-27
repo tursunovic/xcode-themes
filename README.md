@@ -7,7 +7,7 @@ Your code doesn't have to look so sour. I've collected a list of Xcode themes an
 ![Darkcloud](http://www.damir.me/u/manual/darkcloud.jpg)
 
 ### EGO V2
-by [Enormego](http://www.enormego.com)
+by [Enormego](http://www.enormego.com)<br>
 ![EGO V2](http://www.damir.me/u/manual/egov2.jpg)
 
 ### Kelly's
@@ -38,11 +38,11 @@ Available for all kind of editors on [GitHub](https://github.com/chriskempson/to
 ![Tomorrow](http://www.damir.me/u/manual/tomorrow.png)
 
 ### Tomorrow Dark
-Nice dark variant.
+Nice dark variant.<br>
 ![Tomorrow Dark](http://www.damir.me/u/manual/tomorrow-dark.png)
 
 ### Yozora
-My absolute favorite!
+My absolute favorite!<br>
 ![Yozora](http://www.damir.me/u/manual/yozora.jpg)
 
 
@@ -77,11 +77,11 @@ Great font, also shipped with Mac OS.
 ![Monaco](http://www.damir.me/u/manual/fonts/monaco.png)
 
 ### Panic Sans ([install instructions](http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode))
-Provided with [Coda](http://panic.com/coda/).
+Provided with [Coda](http://panic.com/coda/).<br>
 ![Panic sans](http://www.damir.me/u/manual/fonts/panic-sans.png)
 
 ### Source Code Pro ([download](http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html))
-Adobe's open source font. Recommended!
+Adobe's open source font. Recommended!<br>
 ![Source Code Pro Font](http://www.damir.me/u/manual/fonts/source-code-pro.png)
 
 ### Ubuntu Mono ([install instructions](http://font.ubuntu.com))
