@@ -38,6 +38,36 @@ My absolute favorite!
 ![Yozora](http://www.damir.me/u/manual/yozora.jpg)
 
 
+
+# Font's
+### Bitstream Vera Sans ([download](http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans))
+![Bitstream Vera Sans](http://www.damir.me/u/manual/fonts/bitstream-vera-sans.png)
+
+### Consolas ([instructions to download on Mac](http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/))
+![Consolas](http://www.damir.me/u/manual/fonts/consolas.png)
+
+### Droid Sans Mono ([download](http://www.google.com/webfonts/specimen/Droid+Sans+Mono))
+![Droid Sans Mono](http://www.damir.me/u/manual/fonts/droid-sans.png)
+
+### Inconsolata ([download](http://levien.com/type/myfonts/inconsolata.html))
+![Inconsolata](http://www.damir.me/u/manual/fonts/inconsolata.png)
+
+### Menlo
+My favorite. Shipped with Mac OS.
+![Meno](http://www.damir.me/u/manual/fonts/menlo.png)
+
+### Monaco
+Great font, also shipped with Mac OS.
+![Monaco](http://www.damir.me/u/manual/fonts/monaco.png)
+
+### Panic Sans ([install instructions](http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode))
+Provided with [Coda](http://panic.com/coda/).
+![Panic sans](http://www.damir.me/u/manual/fonts/panic-sans.png)
+
+### Ubuntu Mono ([install instructions](http://font.ubuntu.com))
+![Ubuntu Mono](http://www.damir.me/u/manual/fonts/ubuntu-mono.png)
+
+
 ## Installation
 1. Copy the theme(s) to the Xcode's `FontAndColorThemes` folder (`~/Library/Developer/Xcode/UserData/FontAndColorThemes/`).
 2. Restart Xcode.
