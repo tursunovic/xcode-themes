@@ -46,6 +46,10 @@ My absolute favorite!
 ### Consolas ([instructions to download on Mac](http://www.wezm.net/technical/2010/08/howto-install-consolas-font-mac/))
 ![Consolas](http://www.damir.me/u/manual/fonts/consolas.png)
 
+### Courier Prime ([download](http://quoteunquoteapps.com/courierprime/))
+Thanks for the tip [Damian Carrillo](https://github.com/damiancarrillo).
+![Courier Prime](http://www.damir.me/u/manual/fonts/courier-prime.png)
+
 ### Droid Sans Mono ([download](http://www.google.com/webfonts/specimen/Droid+Sans+Mono))
 ![Droid Sans Mono](http://www.damir.me/u/manual/fonts/droid-sans.png)
 
@@ -56,6 +60,10 @@ My absolute favorite!
 My favorite. Shipped with Mac OS.
 ![Meno](http://www.damir.me/u/manual/fonts/menlo.png)
 
+### Meslo ([download](https://github.com/andreberg/Meslo-Font))
+Xcode does not offer any line height options. It's one of the reasons I use Meslo, a great alternative for Menlo. It comes in three 'line-height' sizes (S, M, L).
+![Meslo](http://www.damir.me/u/manual/fonts/meslo.png)
+
 ### Monaco
 Great font, also shipped with Mac OS.
 ![Monaco](http://www.damir.me/u/manual/fonts/monaco.png)
@@ -63,6 +71,10 @@ Great font, also shipped with Mac OS.
 ### Panic Sans ([install instructions](http://damieng.com/blog/2008/02/08/humane-theme-for-textmate-and-xcode))
 Provided with [Coda](http://panic.com/coda/).
 ![Panic sans](http://www.damir.me/u/manual/fonts/panic-sans.png)
+
+### Source Code Pro ([download](http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html))
+Adobe's open source font. Recommended!
+![Source Code Pro Font](http://www.damir.me/u/manual/fonts/source-code-pro.png)
 
 ### Ubuntu Mono ([install instructions](http://font.ubuntu.com))
 ![Ubuntu Mono](http://www.damir.me/u/manual/fonts/ubuntu-mono.png)
