@@ -20,7 +20,7 @@ by [Enormego](http://www.enormego.com)
 ![Night](http://www.damir.me/u/manual/night.jpg)
 
 ### Quiet Light
-The only light theme that made the list.
+One of the few light themes that made the list.
 ![Quiet Light](http://www.damir.me/u/manual/quiet-light.jpg)
 
 ### Railscast
@@ -32,6 +32,14 @@ Inspired by the famous [Railscast TextMate theme](http://railscasts.com/about/).
 
 ### Solarized Light
 ![Solarized Light](http://www.damir.me/u/manual/solarized-light.jpg)
+
+### Tomorrow
+Available for all kind of editors on [GitHub](https://github.com/chriskempson/tomorrow-theme).
+![Tomorrow](http://www.damir.me/u/manual/tomorrow.png)
+
+### Tomorrow Dark
+Nice dark variant.
+![Tomorrow Dark](http://www.damir.me/u/manual/tomorrow-dark.png)
 
 ### Yozora
 My absolute favorite!
