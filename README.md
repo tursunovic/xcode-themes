@@ -1,4 +1,4 @@
-Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install. 
+Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install.
 [Read my blog post](http://www.damir.me/posts/xcodes-themes-and-fonts) which also contains a collection of fonts.
 
 # Xcode theme's
@@ -9,6 +9,9 @@ Your code doesn't have to look so sour. I've collected a list of Xcode themes an
 ### EGO V2
 by [Enormego](http://www.enormego.com)<br>
 ![EGO V2](http://www.damir.me/u/manual/egov2.jpg)
+
+### Flatland
+by [mduvall](https://github.com/mduvall/flatland-xcode)<br>
 
 ### Kelly's
 ![Kelly's](http://www.damir.me/u/manual/kellys.jpg)
