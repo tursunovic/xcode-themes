@@ -73,7 +73,7 @@ My favorite. Shipped with Mac OS.
 ![Meno](http://www.damir.me/u/manual/fonts/menlo.png)
 
 ### Meslo ([download](https://github.com/andreberg/Meslo-Font))
-A great Menlo alternative that comes with three different line height options. Recommend if you prefer a little bit air between your lines.
+A great Menlo alternative that comes with three different line height options. Recommended if you prefer a little bit air between your lines.
 ![Meslo](http://www.damir.me/u/manual/fonts/meslo.png)
 
 ### Monaco
