@@ -11,10 +11,11 @@ by [Enormego](http://www.enormego.com)<br>
 ![EGO V2](http://www.damir.me/u/manual/egov2.jpg)
 
 ### Flatland
-by [mduvall](https://github.com/mduvall/flatland-xcode)<br>
+by [mduvall](https://github.com/mduvall)<br>
+![Flatland](http://www.damir.me/u/manual/flatland.png)
 
 ### Kelly's
-![Kelly's](http://www.damir.me/u/manual/kellys.jpg)
+![Kellys](http://www.damir.me/u/manual/kellys.jpg)
 
 ### Monokai
 ![Monokai](http://www.damir.me/u/manual/monokai.jpg)
@@ -72,7 +73,7 @@ My favorite. Shipped with Mac OS.
 ![Meno](http://www.damir.me/u/manual/fonts/menlo.png)
 
 ### Meslo ([download](https://github.com/andreberg/Meslo-Font))
-Xcode does not offer any line height options. It's one of the reasons I use Meslo, a great alternative for Menlo. It comes in three 'line-height' sizes (S, M, L).
+A great Menlo alternative that comes with three different line height options. Recommend if you prefer a little bit air between your lines.
 ![Meslo](http://www.damir.me/u/manual/fonts/meslo.png)
 
 ### Monaco
