@@ -1,7 +1,7 @@
 Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install.
 [Read my blog post](http://damir.me/xcodes-themes-and-fonts) which also contains a collection of fonts.
 
-# Xcode theme's
+# Xcode themes
 
 ### Darkcloud
 ![Darkcloud](http://www.damir.me/system/u/manual/darkcloud.jpg)  
@@ -55,7 +55,7 @@ My absolute favorite!<br>
 
 
 
-# Font's
+# Fonts
 ### Bitstream Vera Sans ([download](http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans))
 ![Bitstream Vera Sans](http://www.damir.me/system/u/manual/fonts/bitstream-vera-sans.png)
 
@@ -77,7 +77,7 @@ My favorite. Shipped with Mac OS.
 ![Meno](http://www.damir.me/system/u/manual/fonts/menlo.png)
 
 ### Meslo ([download](https://github.com/andreberg/Meslo-Font))
-A great Menlo alternative that comes with three different line height options. Recommended if you prefer a little bit air between your lines.
+A great Menlo alternative that comes with three different line height options. Recommended if you prefer a little bit of air between your lines.
 ![Meslo](http://www.damir.me/system/u/manual/fonts/meslo.png)
 
 ### Monaco
