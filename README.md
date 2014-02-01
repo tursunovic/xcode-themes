@@ -14,6 +14,10 @@ by [Zeno Rocha](https://github.com/zenorocha/dracula-theme)<br>
 by [Enormego](http://www.enormego.com)<br>
 ![EGO V2](http://damir.me/system/u/manual/egov2.jpg)
 
+### ElChacho 
+by [OrlandoAleman](http://www.orlandoaleman.com)<br>
+![ElChacho](http://damir.me/system/u/manual/elchacho.png)
+
 ### Flatland
 by [mduvall](https://github.com/mduvall)<br>
 ![Flatland](http://damir.me/system/u/manual/flatland.png)
