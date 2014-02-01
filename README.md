@@ -1,7 +1,8 @@
-Your code doesn't have to look so sour. I've collected a list of Xcode themes and fonts that you can install.
-[Read my blog post](http://damir.me/xcodes-themes-and-fonts) which also contains a collection of fonts.
+Your code doesn't have to look so sour. I've collected a list of Xcode themes (and fonts) a while ago. Many more themes have been submitted in the meanwhile so if you have a theme you'd like to add to the list, just let me know!
 
-# Xcode themes
+<hr>
+
+## Xcode themes
 
 ### Darkcloud
 ![Darkcloud](http://damir.me/system/u/manual/darkcloud.jpg)  
@@ -57,9 +58,9 @@ Nice dark variant.<br>
 My absolute favorite!<br>
 ![Yozora](http://damir.me/system/u/manual/yozora.jpg)
 
+<hr>
 
-
-# Fonts
+## Fonts
 ### Bitstream Vera Sans ([download](http://www.fontsquirrel.com/fonts/Bitstream-Vera-Sans))
 ![Bitstream Vera Sans](http://damir.me/system/u/manual/fonts/bitstream-vera-sans.png)
 
