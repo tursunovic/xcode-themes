@@ -93,7 +93,7 @@ Great font, also shipped with Mac OS.
 Provided with [Coda](http://panic.com/coda/).<br>
 ![Panic sans](http://damir.me/system/u/manual/fonts/panic-sans.png)
 
-### Source Code Pro ([download](http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html))
+### Source Code Pro ([download](http://blogs.adobe.com/typblography/2012/09/source-code-pro.html))
 Adobe's open source font. Recommended!<br>
 ![Source Code Pro Font](http://damir.me/system/u/manual/fonts/source-code-pro.png)
 
