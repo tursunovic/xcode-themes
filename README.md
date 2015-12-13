@@ -54,6 +54,10 @@ Available for all kind of editors on [GitHub](https://github.com/chriskempson/to
 Nice dark variant.<br>
 ![Tomorrow Dark](http://damir.me/system/u/manual/tomorrow-dark.png)
 
+### Treasurechest
+by [BenediktReichert](https://github.com/benediktreichert)<br>
+![Treasurechest](https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png)
+
 ### Yozora
 My absolute favorite!<br>
 ![Yozora](http://damir.me/system/u/manual/yozora.jpg)
