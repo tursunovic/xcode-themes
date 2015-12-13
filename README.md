@@ -55,7 +55,7 @@ Nice dark variant.<br>
 ![Tomorrow Dark](http://damir.me/system/u/manual/tomorrow-dark.png)
 
 ### Treasurechest
-by [BenediktReichert](https://github.com/benediktreichert)<br>
+by [BenediktReichert](https://github.com/benediktreichert/treasurechest)<br>
 ![Treasurechest](https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png)
 
 ### Yozora
