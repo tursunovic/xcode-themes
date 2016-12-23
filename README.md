@@ -60,7 +60,7 @@ Nice dark variant.<br>
 
 ### Treasurechest
 by [BenediktReichert](https://github.com/benediktreichert/treasurechest)<br>
-![Treasurechest](https://github.com/benediktreichert/treasurechest/blob/screenshots/screen_6.png)
+![Treasurechest](https://raw.githubusercontent.com/benediktreichert/Treasurechest-Xcode-Color-Theme/screenshots/screen_1.png)
 
 ### Yozora
 My absolute favorite!<br>
