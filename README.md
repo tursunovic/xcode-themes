@@ -19,6 +19,10 @@ by [Enormego](http://www.enormego.com)<br>
 by [OrlandoAleman](http://www.orlandoaleman.com)<br>
 ![ElChacho](http://damir.me/system/u/manual/elchacho.png)
 
+### ElChacho
+by [OrlandoAleman](http://www.orlandoaleman.com)<br>
+![ElChacho](https://raw2.github.com/orlandoaleman/ElChachoColorTheme/master/screenshot.png)
+
 ### Flatland
 by [mduvall](https://github.com/mduvall)<br>
 ![Flatland](http://damir.me/system/u/manual/flatland.png)
